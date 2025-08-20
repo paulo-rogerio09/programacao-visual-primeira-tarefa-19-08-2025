@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2025102060042\\source\\repos\\conversao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|c:\\users\\2025102060042\\source\\repos\\conversao\\conversao\\formularios\\formhecparaalq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|solutionrelative:conversao\\formularios\\formhecparaalq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|c:\\users\\2025102060042\\source\\repos\\conversao\\conversao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|solutionrelative:conversao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|c:\\users\\2025102060042\\source\\repos\\conversao\\conversao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|solutionrelative:conversao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|c:\\users\\2025102060042\\source\\repos\\conversao\\conversao\\formularios\\formalqparahec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|solutionrelative:conversao\\formularios\\formalqparahec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormAlqParaHec.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2025102060042\\source\\repos\\conversao\\conversao\\Formularios\\FormAlqParaHec.cs",
+              "RelativeDocumentMoniker": "conversao\\Formularios\\FormAlqParaHec.cs",
+              "ToolTip": "C:\\Users\\2025102060042\\source\\repos\\conversao\\conversao\\Formularios\\FormAlqParaHec.cs [Design]",
+              "RelativeToolTip": "conversao\\Formularios\\FormAlqParaHec.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T01:52:06.358Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormHecParaAlq.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2025102060042\\source\\repos\\conversao\\conversao\\Formularios\\FormHecParaAlq.cs",
+              "RelativeDocumentMoniker": "conversao\\Formularios\\FormHecParaAlq.cs",
+              "ToolTip": "C:\\Users\\2025102060042\\source\\repos\\conversao\\conversao\\Formularios\\FormHecParaAlq.cs [Design]",
+              "RelativeToolTip": "conversao\\Formularios\\FormHecParaAlq.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T01:51:19.764Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\2025102060042\\source\\repos\\conversao\\conversao\\Form1.cs",
+              "RelativeDocumentMoniker": "conversao\\Form1.cs",
+              "ToolTip": "C:\\Users\\2025102060042\\source\\repos\\conversao\\conversao\\Form1.cs",
+              "RelativeToolTip": "conversao\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwB4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T01:40:01.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2025102060042\\source\\repos\\conversao\\conversao\\Form1.cs",
+              "RelativeDocumentMoniker": "conversao\\Form1.cs",
+              "ToolTip": "C:\\Users\\2025102060042\\source\\repos\\conversao\\conversao\\Form1.cs [Design]",
+              "RelativeToolTip": "conversao\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T01:37:07.841Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
