@@ -27,7 +27,7 @@ namespace conversao.Formularios
         private void novobtn_Click(object sender, EventArgs e)
         {
             kmTxt.Clear(); hecTxt.Clear();
-            kmTxt.Select();
+            hecTxt.Select();
         }
     }
 }

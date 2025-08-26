@@ -26,7 +26,8 @@ namespace conversao.Formularios
 
         private void novobtn_Click(object sender, EventArgs e)
         {
-
+            minutosTxt.Clear(); horasTxt.Clear();
+            minutosTxt.Select();
         }
     }
 }

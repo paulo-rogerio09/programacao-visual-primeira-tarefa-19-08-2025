@@ -1,69 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\",
+  "WorkspaceRootPath": "C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|c:\\users\\paulo\\documents\\github\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\formularios\\formquilometrosemmetros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|solutionrelative:conversao\\formularios\\formquilometrosemmetros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|c:\\users\\paulo\\documents\\github\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\formularios\\formquilometrosemmetros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|solutionrelative:conversao\\formularios\\formquilometrosemmetros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|c:\\users\\paulo\\documents\\github\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\formularios\\formminutosemhoras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\formularios\\formminutosemhoras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|solutionrelative:conversao\\formularios\\formminutosemhoras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|c:\\users\\paulo\\documents\\github\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\formularios\\formminutosemhoras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|solutionrelative:conversao\\formularios\\formminutosemhoras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|c:\\users\\paulo\\documents\\github\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\formularios\\formmetrosemquilometros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|solutionrelative:conversao\\formularios\\formmetrosemquilometros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|c:\\users\\paulo\\documents\\github\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\formularios\\formmetrosemquilometros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|solutionrelative:conversao\\formularios\\formmetrosemquilometros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|c:\\users\\paulo\\documents\\github\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\formularios\\formhorasemminutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|solutionrelative:conversao\\formularios\\formhorasemminutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|c:\\users\\paulo\\documents\\github\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\formularios\\formhecparaalq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|solutionrelative:conversao\\formularios\\formhecparaalq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|c:\\users\\paulo\\documents\\github\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\formularios\\formhecparaalq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|solutionrelative:conversao\\formularios\\formhecparaalq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|c:\\users\\paulo\\documents\\github\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\formularios\\formhorasemminutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|solutionrelative:conversao\\formularios\\formhorasemminutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|c:\\users\\paulo\\documents\\github\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\formularios\\formalqparahec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|solutionrelative:conversao\\formularios\\formalqparahec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|C:\\Users\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\formularios\\formalqparahec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|solutionrelative:conversao\\formularios\\formalqparahec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|c:\\users\\paulo\\documents\\github\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\formularios\\formhecemkm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|solutionrelative:conversao\\formularios\\formhecemkm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|c:\\users\\paulo\\documents\\github\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\formularios\\formhecemkm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|solutionrelative:conversao\\formularios\\formhecemkm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|C:\\Users\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|solutionrelative:conversao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|C:\\Users\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\formularios\\formhecemkm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|solutionrelative:conversao\\formularios\\formhecemkm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\formularios\\formhecemkm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|solutionrelative:conversao\\formularios\\formhecemkm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\formularios\\formminutosemhoras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|solutionrelative:conversao\\formularios\\formminutosemhoras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|c:\\users\\2025102060042\\documents\\github\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\formularios\\formquilometrosemmetros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|solutionrelative:conversao\\formularios\\formquilometrosemmetros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\formularios\\formquilometrosemmetros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|solutionrelative:conversao\\formularios\\formquilometrosemmetros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\formularios\\formmetrosemquilometros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|solutionrelative:conversao\\formularios\\formmetrosemquilometros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\formularios\\formmetrosemquilometros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|solutionrelative:conversao\\formularios\\formmetrosemquilometros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\formularios\\formhorasemminutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|solutionrelative:conversao\\formularios\\formhorasemminutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\formularios\\formhecparaalq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|solutionrelative:conversao\\formularios\\formhecparaalq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\formularios\\formhecparaalq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|solutionrelative:conversao\\formularios\\formhecparaalq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\formularios\\formhorasemminutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|solutionrelative:conversao\\formularios\\formhorasemminutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\formularios\\formalqparahec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|solutionrelative:conversao\\formularios\\formalqparahec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\formularios\\formalqparahec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|solutionrelative:conversao\\formularios\\formalqparahec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE4A25E1-B7AD-468E-BD2D-B002945D12E0}|conversao\\conversao.csproj|solutionrelative:conversao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -74,65 +74,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FormMetrosEmQuilometros.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormMetrosEmQuilometros.cs",
-              "RelativeDocumentMoniker": "conversao\\Formularios\\FormMetrosEmQuilometros.cs",
-              "ToolTip": "C:\\Users\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormMetrosEmQuilometros.cs [Design]",
-              "RelativeToolTip": "conversao\\Formularios\\FormMetrosEmQuilometros.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T16:16:54.794Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FormMetrosEmQuilometros.cs",
-              "DocumentMoniker": "C:\\Users\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormMetrosEmQuilometros.cs",
-              "RelativeDocumentMoniker": "conversao\\Formularios\\FormMetrosEmQuilometros.cs",
-              "ToolTip": "C:\\Users\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormMetrosEmQuilometros.cs",
-              "RelativeToolTip": "conversao\\Formularios\\FormMetrosEmQuilometros.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAADwvxYAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T16:54:58.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormMinutosEmHoras.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormMinutosEmHoras.cs",
-              "RelativeDocumentMoniker": "conversao\\Formularios\\FormMinutosEmHoras.cs",
-              "ToolTip": "C:\\Users\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormMinutosEmHoras.cs [Design]",
-              "RelativeToolTip": "conversao\\Formularios\\FormMinutosEmHoras.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T16:19:00.006Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "FormMinutosEmHoras.cs",
-              "DocumentMoniker": "C:\\Users\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormMinutosEmHoras.cs",
+              "DocumentMoniker": "C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormMinutosEmHoras.cs",
               "RelativeDocumentMoniker": "conversao\\Formularios\\FormMinutosEmHoras.cs",
-              "ToolTip": "C:\\Users\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormMinutosEmHoras.cs",
+              "ToolTip": "C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormMinutosEmHoras.cs",
               "RelativeToolTip": "conversao\\Formularios\\FormMinutosEmHoras.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAADwvxUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-26T17:46:50.793Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "FormQuilometrosEmMetros.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormQuilometrosEmMetros.cs",
+              "DocumentMoniker": "C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormQuilometrosEmMetros.cs",
               "RelativeDocumentMoniker": "conversao\\Formularios\\FormQuilometrosEmMetros.cs",
-              "ToolTip": "C:\\Users\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormQuilometrosEmMetros.cs [Design]",
+              "ToolTip": "C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormQuilometrosEmMetros.cs [Design]",
               "RelativeToolTip": "conversao\\Formularios\\FormQuilometrosEmMetros.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-26T16:17:20.981Z",
@@ -140,11 +103,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "FormQuilometrosEmMetros.cs",
-              "DocumentMoniker": "C:\\Users\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormQuilometrosEmMetros.cs",
+              "DocumentMoniker": "C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormQuilometrosEmMetros.cs",
               "RelativeDocumentMoniker": "conversao\\Formularios\\FormQuilometrosEmMetros.cs",
-              "ToolTip": "C:\\Users\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormQuilometrosEmMetros.cs",
+              "ToolTip": "C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormQuilometrosEmMetros.cs",
               "RelativeToolTip": "conversao\\Formularios\\FormQuilometrosEmMetros.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAADwvxsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -153,99 +116,34 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "FormHorasEmMinutos.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormHorasEmMinutos.cs",
+              "DocumentMoniker": "C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormHorasEmMinutos.cs",
               "RelativeDocumentMoniker": "conversao\\Formularios\\FormHorasEmMinutos.cs",
               "ToolTip": "C:\\Users\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormHorasEmMinutos.cs [Design]",
-              "RelativeToolTip": "conversao\\Formularios\\FormHorasEmMinutos.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormHorasEmMinutos.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T16:18:14.068Z",
+              "WhenOpened": "2025-08-26T16:18:14.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Form1.cs",
+              "RelativeDocumentMoniker": "conversao\\Form1.cs",
+              "ToolTip": "C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Form1.cs [Design]",
+              "RelativeToolTip": "conversao\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T01:37:07.841Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FormHecParaAlq.cs",
-              "DocumentMoniker": "C:\\Users\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormHecParaAlq.cs",
-              "RelativeDocumentMoniker": "conversao\\Formularios\\FormHecParaAlq.cs",
-              "ToolTip": "C:\\Users\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormHecParaAlq.cs",
-              "RelativeToolTip": "conversao\\Formularios\\FormHecParaAlq.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAswBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T15:59:34.262Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FormHecParaAlq.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormHecParaAlq.cs",
-              "RelativeDocumentMoniker": "conversao\\Formularios\\FormHecParaAlq.cs",
-              "ToolTip": "C:\\Users\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormHecParaAlq.cs [Design]",
-              "RelativeToolTip": "conversao\\Formularios\\FormHecParaAlq.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T01:51:19.764Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FormHorasEmMinutos.cs",
-              "DocumentMoniker": "C:\\Users\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormHorasEmMinutos.cs",
-              "RelativeDocumentMoniker": "conversao\\Formularios\\FormHorasEmMinutos.cs",
-              "ToolTip": "C:\\Users\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormHorasEmMinutos.cs",
-              "RelativeToolTip": "conversao\\Formularios\\FormHorasEmMinutos.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAADwvxYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T16:45:25.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FormAlqParaHec.cs",
-              "DocumentMoniker": "C:\\Users\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormAlqParaHec.cs",
-              "RelativeDocumentMoniker": "conversao\\Formularios\\FormAlqParaHec.cs",
-              "ToolTip": "C:\\Users\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormAlqParaHec.cs",
-              "RelativeToolTip": "conversao\\Formularios\\FormAlqParaHec.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAADwvxUAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T15:50:14.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FormAlqParaHec.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormAlqParaHec.cs",
-              "RelativeDocumentMoniker": "conversao\\Formularios\\FormAlqParaHec.cs",
-              "ToolTip": "C:\\Users\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormAlqParaHec.cs [Design]",
-              "RelativeToolTip": "conversao\\Formularios\\FormAlqParaHec.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T01:52:06.358Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "FormHecEmKm.cs",
-              "DocumentMoniker": "C:\\Users\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormHecEmKm.cs",
-              "RelativeDocumentMoniker": "conversao\\Formularios\\FormHecEmKm.cs",
-              "ToolTip": "C:\\Users\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormHecEmKm.cs",
-              "RelativeToolTip": "conversao\\Formularios\\FormHecEmKm.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAADwvxUAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T16:33:59.105Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 3,
               "Title": "FormHecEmKm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormHecEmKm.cs",
+              "DocumentMoniker": "C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormHecEmKm.cs",
               "RelativeDocumentMoniker": "conversao\\Formularios\\FormHecEmKm.cs",
-              "ToolTip": "C:\\Users\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormHecEmKm.cs [Design]",
+              "ToolTip": "C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormHecEmKm.cs [Design]",
               "RelativeToolTip": "conversao\\Formularios\\FormHecEmKm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-26T16:19:26.554Z",
@@ -253,28 +151,122 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormHecEmKm.cs",
+              "DocumentMoniker": "C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormHecEmKm.cs",
+              "RelativeDocumentMoniker": "conversao\\Formularios\\FormHecEmKm.cs",
+              "ToolTip": "C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormHecEmKm.cs",
+              "RelativeToolTip": "conversao\\Formularios\\FormHecEmKm.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwB0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T16:33:59.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormMinutosEmHoras.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormMinutosEmHoras.cs",
+              "RelativeDocumentMoniker": "conversao\\Formularios\\FormMinutosEmHoras.cs",
+              "ToolTip": "C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormMinutosEmHoras.cs [Design]",
+              "RelativeToolTip": "conversao\\Formularios\\FormMinutosEmHoras.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T16:19:00.006Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormMetrosEmQuilometros.cs",
+              "DocumentMoniker": "C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormMetrosEmQuilometros.cs",
+              "RelativeDocumentMoniker": "conversao\\Formularios\\FormMetrosEmQuilometros.cs",
+              "ToolTip": "C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormMetrosEmQuilometros.cs",
+              "RelativeToolTip": "conversao\\Formularios\\FormMetrosEmQuilometros.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T16:54:58.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormMetrosEmQuilometros.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormMetrosEmQuilometros.cs",
+              "RelativeDocumentMoniker": "conversao\\Formularios\\FormMetrosEmQuilometros.cs",
+              "ToolTip": "C:\\Users\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormMetrosEmQuilometros.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormMetrosEmQuilometros.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T16:16:54.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormHecParaAlq.cs",
+              "DocumentMoniker": "C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormHecParaAlq.cs",
+              "RelativeDocumentMoniker": "conversao\\Formularios\\FormHecParaAlq.cs",
+              "ToolTip": "C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormHecParaAlq.cs",
+              "RelativeToolTip": "conversao\\Formularios\\FormHecParaAlq.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T15:59:34.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormHecParaAlq.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormHecParaAlq.cs",
+              "RelativeDocumentMoniker": "conversao\\Formularios\\FormHecParaAlq.cs",
+              "ToolTip": "C:\\Users\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormHecParaAlq.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormHecParaAlq.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T01:51:19.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormHorasEmMinutos.cs",
+              "DocumentMoniker": "C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormHorasEmMinutos.cs",
+              "RelativeDocumentMoniker": "conversao\\Formularios\\FormHorasEmMinutos.cs",
+              "ToolTip": "C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormHorasEmMinutos.cs",
+              "RelativeToolTip": "conversao\\Formularios\\FormHorasEmMinutos.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T16:45:25.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormAlqParaHec.cs",
+              "DocumentMoniker": "C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormAlqParaHec.cs",
+              "RelativeDocumentMoniker": "conversao\\Formularios\\FormAlqParaHec.cs",
+              "ToolTip": "C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormAlqParaHec.cs",
+              "RelativeToolTip": "conversao\\Formularios\\FormAlqParaHec.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T15:50:14.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormAlqParaHec.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormAlqParaHec.cs",
+              "RelativeDocumentMoniker": "conversao\\Formularios\\FormAlqParaHec.cs",
+              "ToolTip": "C:\\Users\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormAlqParaHec.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Formularios\\FormAlqParaHec.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T01:52:06.358Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Form1.cs",
               "RelativeDocumentMoniker": "conversao\\Form1.cs",
-              "ToolTip": "C:\\Users\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Form1.cs",
+              "ToolTip": "C:\\Users\\2025102060042\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Form1.cs",
               "RelativeToolTip": "conversao\\Form1.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAUwDwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-20T01:40:01.375Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Form1.cs",
-              "RelativeDocumentMoniker": "conversao\\Form1.cs",
-              "ToolTip": "C:\\Users\\paulo\\Documents\\GitHub\\programacao-visual-primeira-tarefa-19-08-2025\\conversao\\conversao\\Form1.cs [Design]",
-              "RelativeToolTip": "conversao\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T01:37:07.841Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }
