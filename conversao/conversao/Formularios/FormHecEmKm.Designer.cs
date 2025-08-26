@@ -1,6 +1,6 @@
 ﻿namespace conversao.Formularios
 {
-    partial class FormHecParaAlq
+    partial class FormHecEmKm
     {
         /// <summary>
         /// Required designer variable.
@@ -33,7 +33,7 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.hecTxt = new System.Windows.Forms.TextBox();
-            this.alqTxt = new System.Windows.Forms.TextBox();
+            this.kmTxt = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
@@ -42,7 +42,7 @@
             this.novobtn.Location = new System.Drawing.Point(283, 203);
             this.novobtn.Name = "novobtn";
             this.novobtn.Size = new System.Drawing.Size(75, 23);
-            this.novobtn.TabIndex = 14;
+            this.novobtn.TabIndex = 21;
             this.novobtn.Text = "novo";
             this.novobtn.UseVisualStyleBackColor = true;
             this.novobtn.Click += new System.EventHandler(this.novobtn_Click);
@@ -52,7 +52,7 @@
             this.converterBtn.Location = new System.Drawing.Point(76, 203);
             this.converterBtn.Name = "converterBtn";
             this.converterBtn.Size = new System.Drawing.Size(75, 23);
-            this.converterBtn.TabIndex = 13;
+            this.converterBtn.TabIndex = 20;
             this.converterBtn.Text = "converter";
             this.converterBtn.UseVisualStyleBackColor = true;
             this.converterBtn.Click += new System.EventHandler(this.converterBtn_Click);
@@ -62,33 +62,32 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(63, 276);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(147, 13);
-            this.label3.TabIndex = 12;
-            this.label3.Text = "valor convertido para alqueire";
-            this.label3.Click += new System.EventHandler(this.label3_Click);
+            this.label3.Size = new System.Drawing.Size(127, 13);
+            this.label3.TabIndex = 19;
+            this.label3.Text = "valor convertido para km²";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(63, 76);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(185, 13);
-            this.label2.TabIndex = 11;
-            this.label2.Text = "digite o valor de hectare para alqueire";
+            this.label2.Size = new System.Drawing.Size(165, 13);
+            this.label2.TabIndex = 18;
+            this.label2.Text = "digite o valor de hectare para km²";
             // 
             // hecTxt
             // 
             this.hecTxt.Location = new System.Drawing.Point(66, 120);
             this.hecTxt.Name = "hecTxt";
             this.hecTxt.Size = new System.Drawing.Size(100, 20);
-            this.hecTxt.TabIndex = 10;
+            this.hecTxt.TabIndex = 17;
             // 
-            // alqTxt
+            // kmTxt
             // 
-            this.alqTxt.Location = new System.Drawing.Point(66, 305);
-            this.alqTxt.Name = "alqTxt";
-            this.alqTxt.Size = new System.Drawing.Size(100, 20);
-            this.alqTxt.TabIndex = 9;
+            this.kmTxt.Location = new System.Drawing.Point(66, 305);
+            this.kmTxt.Name = "kmTxt";
+            this.kmTxt.Size = new System.Drawing.Size(100, 20);
+            this.kmTxt.TabIndex = 16;
             // 
             // label1
             // 
@@ -96,11 +95,11 @@
             this.label1.Location = new System.Drawing.Point(12, 9);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(776, 38);
-            this.label1.TabIndex = 8;
-            this.label1.Text = "CONVERTER  HECTARE PARA ALQUEIRE";
+            this.label1.TabIndex = 15;
+            this.label1.Text = "CONVERTER  HECTARE PARA KM²";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // FormHecParaAlq
+            // FormHecEmKm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -110,10 +109,10 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.hecTxt);
-            this.Controls.Add(this.alqTxt);
+            this.Controls.Add(this.kmTxt);
             this.Controls.Add(this.label1);
-            this.Name = "FormHecParaAlq";
-            this.Text = "FormHecParaAlq";
+            this.Name = "FormHecEmKm";
+            this.Text = "FormHecEmKm";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -126,7 +125,7 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox hecTxt;
-        private System.Windows.Forms.TextBox alqTxt;
+        private System.Windows.Forms.TextBox kmTxt;
         private System.Windows.Forms.Label label1;
     }
 }

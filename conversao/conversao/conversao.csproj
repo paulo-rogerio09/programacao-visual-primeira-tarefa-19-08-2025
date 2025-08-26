@@ -12,6 +12,21 @@
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -58,11 +73,41 @@
     <Compile Include="Formularios\FormAlqParaHec.Designer.cs">
       <DependentUpon>FormAlqParaHec.cs</DependentUpon>
     </Compile>
+    <Compile Include="Formularios\FormHecEmKm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FormHecEmKm.Designer.cs">
+      <DependentUpon>FormHecEmKm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Formularios\FormHecParaAlq.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Formularios\FormHecParaAlq.Designer.cs">
       <DependentUpon>FormHecParaAlq.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FormHorasEmMinutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FormHorasEmMinutos.Designer.cs">
+      <DependentUpon>FormHorasEmMinutos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FormMetrosEmQuilometros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FormMetrosEmQuilometros.Designer.cs">
+      <DependentUpon>FormMetrosEmQuilometros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FormMinutosEmHoras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FormMinutosEmHoras.Designer.cs">
+      <DependentUpon>FormMinutosEmHoras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FormQuilometrosEmMetros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FormQuilometrosEmMetros.Designer.cs">
+      <DependentUpon>FormQuilometrosEmMetros.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -71,6 +116,24 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Formularios\FormAlqParaHec.resx">
       <DependentUpon>FormAlqParaHec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormHecEmKm.resx">
+      <DependentUpon>FormHecEmKm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormHecParaAlq.resx">
+      <DependentUpon>FormHecParaAlq.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormHorasEmMinutos.resx">
+      <DependentUpon>FormHorasEmMinutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormMetrosEmQuilometros.resx">
+      <DependentUpon>FormMetrosEmQuilometros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormMinutosEmHoras.resx">
+      <DependentUpon>FormMinutosEmHoras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormQuilometrosEmMetros.resx">
+      <DependentUpon>FormQuilometrosEmMetros.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -93,6 +156,18 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 e x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

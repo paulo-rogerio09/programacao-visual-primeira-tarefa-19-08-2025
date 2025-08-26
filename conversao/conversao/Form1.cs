@@ -30,5 +30,35 @@ namespace conversao
             FormAlqParaHec form = new FormAlqParaHec();
             form.ShowDialog();
         }
+
+        private void metpquiTxt_Click(object sender, EventArgs e)
+        {
+            FormMetrosEmQuilometros form = new FormMetrosEmQuilometros();
+            form.ShowDialog(); 
+        }
+
+        private void horpminTxt_Click(object sender, EventArgs e)
+        {
+            FormHorasEmMinutos form = new FormHorasEmMinutos();
+            form.ShowDialog();
+        }
+
+        private void quipmet_Click(object sender, EventArgs e)
+        {
+            FormQuilometrosEmMetros form = new FormQuilometrosEmMetros();
+            form.ShowDialog();
+        }
+
+        private void minphor_Click(object sender, EventArgs e)
+        {
+            FormMinutosEmHoras form = new FormMinutosEmHoras();
+            form.ShowDialog();
+        }
+
+        private void hecpkm_Click(object sender, EventArgs e)
+        {
+            FormHecEmKm form = new FormHecEmKm();
+            form.ShowDialog();
+        }
     }
 }

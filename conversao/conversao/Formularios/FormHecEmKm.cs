@@ -10,24 +10,24 @@ using System.Windows.Forms;
 
 namespace conversao.Formularios
 {
-    public partial class FormAlqParaHec : Form
+    public partial class FormHecEmKm : Form
     {
-        public FormAlqParaHec()
+        public FormHecEmKm()
         {
             InitializeComponent();
         }
 
         private void converterBtn_Click(object sender, EventArgs e)
         {
-            double alq = Convert.ToDouble(alqTxt.Text);
-            double alqphec = alq * 2.42;
-            hecTxt.Text = alqphec.ToString();
+            double valor = Convert.ToDouble(hecTxt.Text);
+            double resultado = valor * 0.01;
+            kmTxt.Text = resultado.ToString();
         }
 
         private void novobtn_Click(object sender, EventArgs e)
         {
-            alqTxt.Clear();hecTxt.Clear();
-            alqTxt.Select();
+            kmTxt.Clear(); hecTxt.Clear();
+            kmTxt.Select();
         }
     }
 }

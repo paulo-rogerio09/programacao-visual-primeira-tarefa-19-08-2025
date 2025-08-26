@@ -31,6 +31,11 @@
             this.label1 = new System.Windows.Forms.Label();
             this.btHecParaAlqu = new System.Windows.Forms.Button();
             this.btAlquParaHec = new System.Windows.Forms.Button();
+            this.metpquiTxt = new System.Windows.Forms.Button();
+            this.quipmet = new System.Windows.Forms.Button();
+            this.horpminTxt = new System.Windows.Forms.Button();
+            this.minphor = new System.Windows.Forms.Button();
+            this.hecpkm = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -63,11 +68,66 @@
             this.btAlquParaHec.UseVisualStyleBackColor = true;
             this.btAlquParaHec.Click += new System.EventHandler(this.btAlquParaHec_Click);
             // 
+            // metpquiTxt
+            // 
+            this.metpquiTxt.Location = new System.Drawing.Point(49, 160);
+            this.metpquiTxt.Name = "metpquiTxt";
+            this.metpquiTxt.Size = new System.Drawing.Size(176, 23);
+            this.metpquiTxt.TabIndex = 3;
+            this.metpquiTxt.Text = "Converter Metros em Quilomeros";
+            this.metpquiTxt.UseVisualStyleBackColor = true;
+            this.metpquiTxt.Click += new System.EventHandler(this.metpquiTxt_Click);
+            // 
+            // quipmet
+            // 
+            this.quipmet.Location = new System.Drawing.Point(475, 160);
+            this.quipmet.Name = "quipmet";
+            this.quipmet.Size = new System.Drawing.Size(174, 23);
+            this.quipmet.TabIndex = 4;
+            this.quipmet.Text = "Converter Quilometres em Metros";
+            this.quipmet.UseVisualStyleBackColor = true;
+            this.quipmet.Click += new System.EventHandler(this.quipmet_Click);
+            // 
+            // horpminTxt
+            // 
+            this.horpminTxt.Location = new System.Drawing.Point(58, 239);
+            this.horpminTxt.Name = "horpminTxt";
+            this.horpminTxt.Size = new System.Drawing.Size(156, 23);
+            this.horpminTxt.TabIndex = 5;
+            this.horpminTxt.Text = "Converter Horas em Minutos";
+            this.horpminTxt.UseVisualStyleBackColor = true;
+            this.horpminTxt.Click += new System.EventHandler(this.horpminTxt_Click);
+            // 
+            // minphor
+            // 
+            this.minphor.Location = new System.Drawing.Point(477, 239);
+            this.minphor.Name = "minphor";
+            this.minphor.Size = new System.Drawing.Size(172, 23);
+            this.minphor.TabIndex = 6;
+            this.minphor.Text = "Converter Minutos em Horas";
+            this.minphor.UseVisualStyleBackColor = true;
+            this.minphor.Click += new System.EventHandler(this.minphor_Click);
+            // 
+            // hecpkm
+            // 
+            this.hecpkm.Location = new System.Drawing.Point(284, 310);
+            this.hecpkm.Name = "hecpkm";
+            this.hecpkm.Size = new System.Drawing.Size(152, 23);
+            this.hecpkm.TabIndex = 7;
+            this.hecpkm.Text = "Converter Hectares em Km²";
+            this.hecpkm.UseVisualStyleBackColor = true;
+            this.hecpkm.Click += new System.EventHandler(this.hecpkm_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.hecpkm);
+            this.Controls.Add(this.minphor);
+            this.Controls.Add(this.horpminTxt);
+            this.Controls.Add(this.quipmet);
+            this.Controls.Add(this.metpquiTxt);
             this.Controls.Add(this.btAlquParaHec);
             this.Controls.Add(this.btHecParaAlqu);
             this.Controls.Add(this.label1);
@@ -82,6 +142,11 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button btHecParaAlqu;
         private System.Windows.Forms.Button btAlquParaHec;
+        private System.Windows.Forms.Button metpquiTxt;
+        private System.Windows.Forms.Button quipmet;
+        private System.Windows.Forms.Button horpminTxt;
+        private System.Windows.Forms.Button minphor;
+        private System.Windows.Forms.Button hecpkm;
     }
 }
 

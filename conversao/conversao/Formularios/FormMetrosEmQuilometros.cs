@@ -10,24 +10,25 @@ using System.Windows.Forms;
 
 namespace conversao.Formularios
 {
-    public partial class FormAlqParaHec : Form
+    public partial class FormMetrosEmQuilometros : Form
     {
-        public FormAlqParaHec()
+        public FormMetrosEmQuilometros()
         {
             InitializeComponent();
         }
 
         private void converterBtn_Click(object sender, EventArgs e)
         {
-            double alq = Convert.ToDouble(alqTxt.Text);
-            double alqphec = alq * 2.42;
-            hecTxt.Text = alqphec.ToString();
+            double metros = Convert.ToDouble(metrosTxt.Text);
+            double mepqui = metros / 1000;
+            quilometrosTxt.Text = mepqui.ToString();
+
         }
 
         private void novobtn_Click(object sender, EventArgs e)
         {
-            alqTxt.Clear();hecTxt.Clear();
-            alqTxt.Select();
+            metrosTxt.Clear(); quilometrosTxt.Clear();
+            metrosTxt.Select();
         }
     }
 }

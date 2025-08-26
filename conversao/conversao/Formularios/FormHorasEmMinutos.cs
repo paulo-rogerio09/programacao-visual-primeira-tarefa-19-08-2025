@@ -10,24 +10,25 @@ using System.Windows.Forms;
 
 namespace conversao.Formularios
 {
-    public partial class FormAlqParaHec : Form
+    public partial class FormHorasEmMinutos : Form
     {
-        public FormAlqParaHec()
+        public FormHorasEmMinutos()
         {
             InitializeComponent();
         }
 
         private void converterBtn_Click(object sender, EventArgs e)
         {
-            double alq = Convert.ToDouble(alqTxt.Text);
-            double alqphec = alq * 2.42;
-            hecTxt.Text = alqphec.ToString();
+            double horas = Convert.ToDouble(horasTxt.Text);
+            double resultado = horas * 60;
+            minutosTxt.Text = resultado.ToString();
+
         }
 
         private void novobtn_Click(object sender, EventArgs e)
         {
-            alqTxt.Clear();hecTxt.Clear();
-            alqTxt.Select();
+            minutosTxt.Clear(); horasTxt.Clear();
+            horasTxt.Select();
         }
     }
 }
